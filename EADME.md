@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Abu764/Abu764 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MOHD ABUBAKAR SIDDIQUE/MOHD ABUBKAR SIDDIQUE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
